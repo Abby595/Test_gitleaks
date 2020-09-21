@@ -8,3 +8,6 @@ Examples to test if the scan works:
 Password: 123345
 Key = 293458tejstwetjges
 Key2 = 9t4u0tupjs
+pass = epprgkdgtsew
+key = wrwwefs
+secret= ;ejfs;qkr2039403
